@@ -327,7 +327,6 @@ h6 {
 @media (max-width: 992px) {
   #hero {
     text-align: center;
-    background-position-x: center;
   }
 
   #hero h1 {
