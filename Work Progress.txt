@@ -1,0 +1,5 @@
+Latest version : V5 all updated
+
+have to deploy to netlify after including testimonals and facts sections
+
+needs to verify contact us page
