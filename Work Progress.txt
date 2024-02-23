@@ -1,6 +1,4 @@
-Latest version : V5 all updated
+Latest version : V7 all updated
 
-have to deploy to netlify after including testimonals and facts sections
-portfolio details page - pictures height adjust
-
-needs to verify contact us page
+1.Have to add gallery images for mobile and AI
+2.Needs to verify contact us page
