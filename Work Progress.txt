@@ -1,4 +1,9 @@
 Latest version : V7 all updated
 
 1.Have to add gallery images for mobile and AI
+event - 2 pics
+ai - few
+mob - few
+resize and blur
+
 2.Needs to verify contact us page
