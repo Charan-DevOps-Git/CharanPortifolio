@@ -1,1 +1,1 @@
-Welcome to my Portifolio
+Welcome to my Portfolio
