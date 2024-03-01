@@ -1196,3 +1196,9 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+.vismeContact{
+  position: relative;
+  bottom: 100px;
+  right: 50px;
+}
