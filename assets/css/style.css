@@ -1199,6 +1199,16 @@ section {
 
 .vismeContact{
   position: relative;
-  bottom: 100px;
+  bottom: 50px;
   right: 50px;
+}
+
+@media (max-width: 575.98px) {
+  .vismeContact{
+    position: relative;
+    bottom: auto;
+    top: auto;
+    left: auto;
+    right: auto;
+  }
 }
