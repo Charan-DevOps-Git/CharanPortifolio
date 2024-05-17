@@ -260,4 +260,11 @@
    */
   new PureCounter();
 
+   /**
+   * Download Resume
+   */
+        document.getElementById('downloadResume').addEventListener('click', function () {
+        });
+
+
 })()
