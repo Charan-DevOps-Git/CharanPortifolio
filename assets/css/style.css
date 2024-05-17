@@ -1197,6 +1197,9 @@ section {
   font-size: 13px;
 }
 
+/*--------------------------------------------------------------
+# Visme Form
+--------------------------------------------------------------*/
 .vismeContact{
   position: relative;
   bottom: 50px;
@@ -1211,4 +1214,82 @@ section {
     left: auto;
     right: auto;
   }
+}
+
+/*--------------------------------------------------------------
+# Resume Section
+--------------------------------------------------------------*/
+.resumeSection{
+  text-align: center;
+  margin-top: 30px;
+  padding: 10px;
+}
+
+.handIcon{
+  color: #dd0303;
+  font-size: 35px;
+  position: relative;
+  top: 10px;
+  right: 10px;  
+}
+.downloadButton {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: #007BFF;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+}
+/*--------------------------------------------------------------
+# Banner Section
+--------------------------------------------------------------*/
+.banner-container {
+  position: absolute;
+    top: 0;
+    width: 80%;
+    overflow: hidden;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.banner-text {
+  color: #0563bb;
+  font-weight: bold;
+  position: absolute;
+  white-space: nowrap;
+  animation: moveBanner 15s linear infinite;
+  font-size: 20px;
+  padding-left: 100%;
+}
+
+@keyframes moveBanner {
+  to {
+      transform: translateX(-100%);
+  }
+}
+
+.bx.bx-star.bx-spin{
+  position: relative;
+  top: 2px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(-360deg);
+  }
+}
+
+.boxAWSIcon{
+  color: #ff9900;
+  text-align: center;
+  font-size: 40px;
+  position: relative;
+  top: 12px;
 }
