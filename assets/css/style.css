@@ -479,6 +479,13 @@ section {
   margin: 10px;
 }
 
+@media only screen and (max-width: 600px) {
+  .skills .progress {
+    height: 85px;
+    margin: 0px;
+  }
+}
+
 .skills .progress .skill {
   padding: 10px 0 0 0;
   margin: 0;
